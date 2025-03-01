@@ -13,8 +13,6 @@
 [![](https://img.shields.io/badge/Goland-2023.1-black?style=flat-square&logo=GoLand)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/-etcd-419EDA?style=flat-square&logo=etcd&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 
