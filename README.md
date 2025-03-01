@@ -16,11 +16,7 @@
 [![](https://img.shields.io/badge/-etcd-419EDA?style=flat-square&logo=etcd&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://reactjs.org/)
 
     
 <br>
