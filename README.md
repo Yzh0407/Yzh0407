@@ -6,35 +6,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/guowei-gong/guowei-gong/blob/main/0EBF84432918684C55BCC3F7407352A6.png" target="_blank" alt="QQ" title="QQ">
-    <img src="https://img-blog.csdnimg.cn/66ee6d055d304638a17a18e4b682916f.png#pic_center" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://juejin.cn/user/571401779807175" target="_blank" alt="Juejin" title="Juejin">
-    <img src="https://img-blog.csdnimg.cn/2aa85aa5784449809f2cbe16d86b9f4f.png#pic_center" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/shagua48" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/383069888" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://leetcode.cn/u/guowei01/" target="_blank" alt="leetcode" title="leetcode">
-    <img src="https://img-blog.csdnimg.cn/8d9caea0ab894a0fa1e9ab424f770cf6.png#pic_center" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://music.163.com/#/user/home?id=1324882588" target="_blank" alt="CloudMusic" title="CloudMusic">
-    <img src="https://img-blog.csdnimg.cn/88555f6585ca4f76bbde1dc665a3bc87.png#pic_center" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://gongguowei.com" target="_blank" alt="blog" title="blog">
-    <img src="https://img-blog.csdnimg.cn/f0347769f9704a1ea3c21dff7357ad75.png#pic_center" width="30px"/>
-  </a>
-  &emsp;
-  <br><br>
   <strong>温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。</strong>
 </p>
 
