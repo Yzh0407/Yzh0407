@@ -1,11 +1,4 @@
 <p align="center">
-  <a href="http://gongguowei.com/" class="rich-diff-level-one">
-    <img src="https://count.getloli.com/get/@guowei-gong.readme" alt="Guowei's Stats" >
-  </a>
-</p>
-
-
-<p align="center">
   <strong>温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。</strong>
 </p>
 
